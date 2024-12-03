@@ -1,0 +1,10 @@
+h1{
+    background-color: gold;
+}
+body{
+    background-image:url(istockphoto-1496892717-1024x1024.jpg) ;
+}
+div{
+    background: linear-gradient(to right ,gold,black,white,darkred,chocolate,silver);
+    height: 209px;
+}
